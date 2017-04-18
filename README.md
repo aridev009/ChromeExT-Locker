@@ -10,7 +10,8 @@ Checks if you goto the page with the logs without entering a username and a pass
 # WARNING - THIS IS NOT FULLY SECURE! THE SHA-512 HASH IS OPEN FOR VIEWING! 
 
 # Images
-![image](keyloggerLocky.png) ![image2](LockyLogin.png)
+![image2](LockyLogin.png)
+![image](keyloggerLocky.png) 
 
 # Credit!
 The guy who made the keylogger - https://www.ericzhang.me/projects/chromelogger/
