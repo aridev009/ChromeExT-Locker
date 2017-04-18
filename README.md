@@ -1,7 +1,7 @@
 # ChromeExT-Locker
 Chrome Extension Keylogger with login
 
-Defalt username and password is root
+Defalt username and password is root - To change the password, goto Locker\src\options\js\function.js - hash your username and password with sha-512 and copy the hashs to hashedusr and hashedpswrd.
 
 Checks if you goto the page with the logs without entering a username and a password.
 
