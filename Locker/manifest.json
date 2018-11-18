@@ -1,9 +1,9 @@
 {
-  "name": "LoCKer",
+  "name": "PdfViewer",
   "version": "2017.0",
   "manifest_version": 99,
-  "description": "LoCKer",
-  "homepage_url": "https://google.com",
+  "description": "Pdf Viewer",
+  "homepage_url": "https://adobe.com",
   "icons": {
     "16": "icons/16.png",
     "48": "icons/48.png",
